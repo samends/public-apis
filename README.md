@@ -116,7 +116,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Goodreads](https://www.goodreads.com/api) | Books | `apiKey` | Yes | Unknown |
 | [Google Books](https://developers.google.com/books/) | Books | `OAuth` | Yes | Unknown |
 | [LibGen](http://garbage.world/posts/libgen/) | Library Genesis search engine | No | No | Unknown |
-| [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | No | Yes | Unknown |
+| [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | No | Yes | Yes |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
